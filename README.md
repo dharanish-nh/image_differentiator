@@ -1,5 +1,5 @@
 # Image Differentiator
-The application is built with the help of python and pyqt.The application can be used to find the difference between two similar images.
+The application is built with the help of python and pyqt. It can be used to find the difference between two similar images.
 UI layout is created by using Qt designer.
 
 ### 1.Loading images
