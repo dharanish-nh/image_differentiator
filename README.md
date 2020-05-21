@@ -1,2 +1,4 @@
-# image_differentiator
-write about project
+# image differentiator
+
+The application is built with the help of python and pyqt.The application can be used to find the difference between two similar images.
+
